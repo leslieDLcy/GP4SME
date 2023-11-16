@@ -4,7 +4,7 @@ SME
 Assignment for SME borrowing history
 
 
-## how to use
+## how submission
 
 As answers to the practical assignment, two files, as listed below, are submitted:
 
@@ -13,9 +13,9 @@ As answers to the practical assignment, two files, as listed below, are submitte
 2. A PDf report clearly summarizing the procedures and futher thoughts on Machine Learning strategies that can deliver more possibilities for this assignment. 
 
 
-## on organizing the code
+## on organising the code
 
-xx
+Throughout this analysis, I meant to write library codes that can serve as recipes, for instance, to solve a certain data problem, create a model, generate a figure, etc. Most importantly, these library codes can be re-used by others (e.g. team members or clients) later on, as in being adopted in user code. Notably, these library codes can be easily packaged into a Python package, facilitating the sharing and usage by others
 
 
 ## on processing data
