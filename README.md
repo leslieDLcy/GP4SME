@@ -13,12 +13,9 @@ Gaussian process model is adopted in this analysis for three reasons:
 ![alt text](src/visualization/fig5.png "gaussian process modelling")
 
 
-<hr>
+## on documents
 
-
-## on submission
-
-As answers to the practical assignment, two files, as listed below, are submitted:
+Two documents, as listed below, are demonstrated:
 
 1. A [Jupyter notebook file](https://nbviewer.org/github/leslieDLcy/SME/blob/main/notebooks/SME_assignment_byYuChen.ipynb#) as a one-stop solution containing code and explanation. It can be better viewed via `nbviewer` at [this address](https://nbviewer.org/github/leslieDLcy/SME/blob/main/notebooks/SME_assignment_byYuChen.ipynb#). The original `.ipynb` file is stored in this repository [here](notebooks/SME_assignment_byYuChen.ipynb).
 
