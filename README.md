@@ -1,7 +1,7 @@
 SME
 ==============================
 
-Analysing the borrowing history of a small business. 
+Analysing the borrowing history of a small business with `Gaussian Process`.
 
 
 ## on predictive modelling
