@@ -1,7 +1,19 @@
 SME
 ==============================
 
-Assignment for SME borrowing history
+Analysing the borrowing history of a small business. 
+
+
+## on predictive modelling
+Gaussian process model is adopted in this analysis for three reasons:
+(i) it accounts for the model uncertainty; 
+(ii) it is efficient to compute on a small data set with analytic solution; 
+(iii) it naturally deals with missing data;
+
+![alt text](src/visualization/fig5.png "gaussian process modelling")
+
+
+<hr>
 
 
 ## on submission
@@ -36,18 +48,11 @@ Throughout this analysis, I meant to write library codes that can serve as recip
 Check out the [visualization directory](visualization) for the figures generated.
 
 
-<hr>
 
-## on predictive modelling
-Gaussian process model is adopted in this analysis for three reasons:
-(i) it accounts for the model uncertainty; 
-(ii) it is efficient to compute on a small data set with analytic solution; 
-(iii) it naturally deals with missing data;
 
-![alt text](src/visualization/fig5.png "gaussian process modelling")
+
 
 
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
